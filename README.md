@@ -21,7 +21,7 @@ select.pyではそのシンプルな実装です。しかし、この場合は�
 
 ・T=1の場合
 | sample num    | Random Acc@1 | Select Acc@1 |
-|---------------|--------------|--------------|
+|---------------|:------------:|:------------:|
 | 50000         |    91.7      |              |
 | 40000         |    90.2      |    90.8      |
 | 30000         |    88.8      |    89.9      |
@@ -48,7 +48,7 @@ select.pyではそのシンプルな実装です。しかし、この場合は�
 $ git clone https://github.com/chenyaofo/CIFAR-pretrained-models
 ```
 
-##TODO
+## TODO
 arg parseでパラメータをいじれるようにする
 
 ## Reference
